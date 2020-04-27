@@ -1,0 +1,72 @@
+
+
+
+html, body{
+  font-family:PingFang SC Ultralight,Helvetica, Arial;
+  color:#222;
+
+
+}
+.carousel{
+  padding-top:3em;
+}
+.nav{
+  padding-top:0.25em;
+  padding-bottom: 0.25em;
+
+}
+
+
+
+
+
+ .jumbotron{
+  background-color:#f6f6f6;
+}
+   .row{
+    padding-left: 2em;
+    padding-right: 2em;
+  }
+     .big{
+     line-height:250%;
+     padding-right:4em;
+     color:#;
+   }
+  .h3{
+    font-size:120%;
+  }
+
+  .lead{
+    line-height:250%;
+    padding-left:2em;
+    padding-right: 2em;
+  font-size:100%;
+}
+  .my-4{
+   width:80%;
+}
+
+   .light{
+     border-top: 1px solid
+     width:50%;
+   }
+
+
+
+
+
+
+
+
+footer{
+font-size:90%;
+color:#707070;
+padding-top: 2rem;
+padding-bottom:3em;
+}
+
+.light{
+  border-top: 1px solid
+  width:50%;
+
+}
